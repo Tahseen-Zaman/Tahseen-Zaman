@@ -3,7 +3,7 @@
 ### 🌟 **About Me**
 I’m a backend engineer passionate about creating efficient, scalable systems and exploring cutting-edge technologies. I thrive tackling real-world challenges, whether optimizing data pipelines, building high-performance APIs, or designing robust concurrency models.  
 
-I’m involved in exciting projects across the healthcare and travel industries, balancing innovation with reliability to deliver impactful solutions.
+I’m involved in exciting projects across travel industries and healthcare, balancing innovation with reliability to deliver impactful solutions.
 
 ---
 
