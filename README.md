@@ -30,7 +30,7 @@ Here are the tools and technologies I work with regularly:
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
 
-- **Platforms & Tools:**  
+- **Cloud Computing**  
   ![AWS S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)  
   ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)  
   ![AWS CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -58,13 +58,14 @@ Here are the tools and technologies I work with regularly:
 
 ---
 
-### 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tahseen-Zaman&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahseen-Zaman&layout=compact&theme=radical)
+> 🚀 Most of my work is in **private repositories**, where I build:
+> - Robust APIs and data pipelines with **Python**, **Django**, **FastAPI**, and **Pandas**.
+> - Concurrency patterns and backend systems using **Go**.
+> - Scalable cloud solutions leveraging **AWS Lambda**
 
 ---
 
 ### 🌐 **Connect with Me**
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/tahseen-zaman-a73b8a149/))  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahseen-zaman-a73b8a149/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahseenzaman11@gmail.com)
 ---
