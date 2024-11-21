@@ -14,9 +14,12 @@ Here are the tools and technologies I work with regularly:
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **Frameworks & Libraries:**  
+- **Frameworks & Libraries:**
+  
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Fiber](https://img.shields.io/badge/Fiber-00C7B7?style=for-the-badge&logo=fiber&logoColor=white)
 
 - **Testing & Concurrency:**  
   ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)  
@@ -25,6 +28,12 @@ Here are the tools and technologies I work with regularly:
 - **Platforms & Tools:**  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
+
+- **Platforms & Tools:**  
+  ![AWS S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)  
+  ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)  
+  ![AWS CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -42,7 +51,7 @@ Here are the tools and technologies I work with regularly:
 
 ---
 
-### 🎯 **Goals for 2024**
+### 🎯 **Goals for 2025**
 - Contribute to open-source projects in the fields of healthcare and travel tech.
 - Enhance performance and scalability of data pipelines and OTA systems.
 - Publish technical content about concurrency patterns, healthcare pipelines, and backend best practices.
@@ -56,5 +65,6 @@ Here are the tools and technologies I work with regularly:
 ---
 
 ### 🌐 **Connect with Me**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/tahseen-zaman-a73b8a149/))  
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahseenzaman11@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/tahseen-zaman-a73b8a149/))  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahseenzaman11@gmail.com)
+---
